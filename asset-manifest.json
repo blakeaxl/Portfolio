@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.73dc161c.chunk.css",
+    "main.js": "/Portfolio/static/js/main.3cdc2185.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.3cdc2185.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.341bf454.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.341bf454.js.map",
+    "static/js/2.b30a0fdc.chunk.js": "/Portfolio/static/js/2.b30a0fdc.chunk.js",
+    "static/js/2.b30a0fdc.chunk.js.map": "/Portfolio/static/js/2.b30a0fdc.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.73dc161c.chunk.css.map": "/Portfolio/static/css/main.73dc161c.chunk.css.map",
+    "static/js/2.b30a0fdc.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.b30a0fdc.chunk.js.LICENSE.txt",
+    "static/media/GeeksGarage.6e20a48f.jpg": "/Portfolio/static/media/GeeksGarage.6e20a48f.jpg",
+    "static/media/countries.bd31d3c8.jpg": "/Portfolio/static/media/countries.bd31d3c8.jpg",
+    "static/media/css3-logo.02d225c7.png": "/Portfolio/static/media/css3-logo.02d225c7.png",
+    "static/media/gifos.9a8c7ba9.PNG": "/Portfolio/static/media/gifos.9a8c7ba9.PNG",
+    "static/media/app.css": "/Portfolio/static/media/home-wallpaper.6cb6dc82.jpg",
+    "static/media/hooks-logo.745880fa.png": "/Portfolio/static/media/hooks-logo.745880fa.png",
+    "static/media/instagram.0963b7a5.png": "/Portfolio/static/media/instagram.0963b7a5.png",
+    "static/media/javascript-logo.266bd9fb.png": "/Portfolio/static/media/javascript-logo.266bd9fb.png",
+    "static/media/linkedin.7ab7f69a.png": "/Portfolio/static/media/linkedin.7ab7f69a.png",
+    "static/media/logo.8a18d792.png": "/Portfolio/static/media/logo.8a18d792.png",
+    "static/media/node-logo.72e8805f.png": "/Portfolio/static/media/node-logo.72e8805f.png",
+    "static/media/react-logo.a544fd8c.png": "/Portfolio/static/media/react-logo.a544fd8c.png",
+    "static/media/redux-logo.b3b939c6.png": "/Portfolio/static/media/redux-logo.b3b939c6.png",
+    "static/media/visual-studio-code-logo.7b7664f1.png": "/Portfolio/static/media/visual-studio-code-logo.7b7664f1.png",
+    "static/media/whatsapp.2bcd9b3d.png": "/Portfolio/static/media/whatsapp.2bcd9b3d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.341bf454.js",
+    "static/js/2.b30a0fdc.chunk.js",
+    "static/css/main.73dc161c.chunk.css",
+    "static/js/main.3cdc2185.chunk.js"
+  ]
+}
